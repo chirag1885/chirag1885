@@ -2,7 +2,7 @@
   <img 
     src="https://github.com/chirag1885/chirag1885/blob/main/profile.png?raw=true" 
     alt="Chirag Gupta Avatar" 
-    width="500"
+    width="380"
   />
 </p>
 
