@@ -1,3 +1,13 @@
+<p align="center">
+  <img 
+    src="https://github.com/chirag1885/chirag1885/blob/main/profile.png?raw=true" 
+    alt="Chirag Gupta Avatar" 
+    width="280"
+  />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Chirag Gupta</h1>
 <h3 align="center">Software Engineer focused on ML/AI and full-stack systems</h3>
 
