@@ -9,7 +9,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Chirag Gupta</h1>
-<h3 align="center">Software Engineer focused on ML/AI and full-stack systems</h3>
+<h3 align="center">Software Engineer - Focused on ML/AI and Full-Stack systems(Mern)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag1885&label=Profile%20views&color=0e75b6&style=flat" alt="chirag1885" /> </p>
 
