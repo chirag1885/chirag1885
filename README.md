@@ -31,7 +31,6 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chirag1885/chirag1885/output/pacman-contribution-graph.svg">
 </picture>
 
-<sub>Generated daily with <a href="https://github.com/abozanona/pacman-contribution-graph">abozanona/pacman-contribution-graph</a> — will render once the workflow runs.</sub>
 
 ---
 
