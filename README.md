@@ -10,7 +10,7 @@
 <h1 align="center">Hi there, I'm Chirag Gupta 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+ML%2FAI+%2B+Full-Stack+(MERN);Building+things+that+learn+and+things+that+ship;Currently+researching+Multimodal+Emotion+Detection" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+ML%2FAI+%2B+Full-Stack+(MERN)" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -48,8 +48,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chirag1885&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag1885&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=chirag1885&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chirag1885&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
